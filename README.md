@@ -1,2 +1,2 @@
-# Um estudo com JDBC
-Utilizando o padrão de projeto DAO e o SGBD MySQL
+# A study with JDBC
+Using the DAO design pattern and MySQL DBMS
